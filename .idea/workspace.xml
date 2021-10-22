@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c35a32f-8897-4bbf-b73b-ccfaf3a36f23" name="Changes" comment="" />
+    <list default="true" id="7c35a32f-8897-4bbf-b73b-ccfaf3a36f23" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/reducers/Intl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reducers/handler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reducers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/configureStore.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,11 +25,19 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/store" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
@@ -50,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1634892442421</updated>
-      <workItem from="1634892443816" duration="351000" />
+      <workItem from="1634892443816" duration="1041000" />
     </task>
     <servers />
   </component>
